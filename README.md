@@ -23,3 +23,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - divide the display are to possible chunks with equal spaced repeatation
 - finding out correct offset to cover all rgb values
 - check to cover the resolution length & unique values
+- reference [https://codegolf.stackexchange.com/questions/22144/images-with-all-colors](https://codegolf.stackexchange.com/questions/22144/images-with-all-colors)
